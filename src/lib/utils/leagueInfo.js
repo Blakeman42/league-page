@@ -7,8 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome in Benchwarmers. It's time to address the elephant in the room, and that's my undisputed reign as last season's champion. I hope you all enjoyed watching my team dominate the competition week after week. It's not arrogance if you can back it up.</p>
-  <p>Now, I know some of you might be nursing bruised egos, and that's perfectly natural. But let's face it, folks - I've set the bar so high that it might as well be in the stratosphere. Are any of you finally going to challenge me as the champ, or are we in for another season of my absolute dominance?<p/>
+  <p>Welcome in Benchwarmers. It's time to address the elephant in the room, and that's my undisputed reign as the TWO TIME champion. I hope you all enjoyed watching my team dominate the competition week after week. It's not arrogance if you can back it up.</p>
+  <p>Now, I know some of you might be nursing bruised egos, and that's perfectly natural. But let's face it, folks - I've set the bar so high that it might as well be in the stratosphere. Are any of you finally going to challenge me as the champ, or are we in for yet another season of my absolute dominance?<p/>
   <p>I'm ready to defend my crown, and I'm eager to see if any of you can muster the skills, stratgey, and sheer guts to knock me off my throne. So, bring your A-game, because you're going to need it. This season, it's all about the pursuit of excellence, and I plan on staying right where I belong - at the top.<p/>
 `;
 
